@@ -14,3 +14,5 @@ leaf patterns. Through a comprehensive exploration of hyperparameters, including
 batch sizes, hidden sizes, dropout rates, optimizers, and learning rates, we aim not 
 only to optimize the model’s performance but also to gain deeper insights into the 
 dataset's inherent characteristics.
+![image](https://github.com/user-attachments/assets/f20b4402-8d57-485f-b2b5-4dc2ddaa8e96)
+
